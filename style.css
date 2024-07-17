@@ -58,7 +58,8 @@ li a {
     background-repeat: no-repeat;
     background-size: 100%;
     height: 500px;
-    max-width: 1640px;
+    /* max-width: 1640px; */
+    max-width: 90%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
