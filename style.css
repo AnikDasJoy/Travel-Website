@@ -418,6 +418,10 @@ footer {
         margin-bottom: 10px;
     }
 
+    .when {
+        margin-bottom: 10px;
+    }
+
     .row {
         flex-direction: column;
         height: 100%;
